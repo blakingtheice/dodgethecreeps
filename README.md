@@ -1,2 +1,4 @@
 # dodgethecreeps
-Godot tutorial game 2d
+Godot tutorial game 2d.
+
+Starting my game development journey! :)
